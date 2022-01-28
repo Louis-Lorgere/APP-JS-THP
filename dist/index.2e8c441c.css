@@ -1,0 +1,44 @@
+.cardGame {
+  width: 20%;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  opacity: 1;
+  transition: 2s;
+  background: #1f1f1f none repeat scroll 0% 0%;
+  display: flex;
+  flex-direction: column;
+}
+.cardGame h1 {
+  font-size: 0.7em;
+  text-align: center;
+  background: none;
+}
+.cardGame h2 {
+  font-size: 0.5em;
+  text-align: center;
+  background: none;
+}
+.cardGame .footer img {
+  margin: 10px;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: whitesmoke;
+  height: 100vh;
+}
+
+body {
+  font-size: 2em;
+  font-family: sans-serif;
+  background: #161515;
+}
+
+h1 {
+  color: #f8f1f1;
+  background-color: #161515;
+}
+/*# sourceMappingURL=index.2e8c441c.css.map */

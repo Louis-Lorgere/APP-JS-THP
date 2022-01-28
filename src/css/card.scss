@@ -1,0 +1,29 @@
+.cardGame{
+  width: 20%;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  opacity : 1;
+  transition: 2s;
+  background: rgb(31, 31, 31) none repeat scroll 0% 0%;
+  display: flex;
+  flex-direction: column;
+
+  h1{
+    font-size: 0.7em;
+    text-align: center;
+    background: none;
+  }
+  h2{
+    font-size: 0.5em;
+    text-align: center;
+    background: none;
+  }
+
+  .footer{
+    
+    img{
+      margin:10px;
+    }
+  }
+}
